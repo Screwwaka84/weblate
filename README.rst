@@ -1,8 +1,4 @@
- 165 countries.**
 
-Install it, or use the Hosted Weblate service at `weblate.org`_.
-
-.. image:: https://img.shields.io/badge/website-weblate.org-blue.svg
     :alt: Website
     :target: https://weblate.org/
 
